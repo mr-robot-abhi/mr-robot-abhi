@@ -1,5 +1,4 @@
 ## Hi there 👋
-Sure, here’s a tailored GitHub profile summary based on your provided information:
 
 ---
 
