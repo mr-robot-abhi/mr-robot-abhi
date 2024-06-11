@@ -33,9 +33,8 @@ Feel free to explore my repositories to see the projects I’ve been working on,
 
 ### Connect with Me
 
-- [LinkedIn](your-linkedin-url)
-- [Twitter](your-twitter-url)
-- [Personal Website](your-personal-website-url)
+- [LinkedIn](https://www.linkedin.com/in/mr-robot-abhi/)
+- [Personal Website](https://topmate.io/abhishek_math)
 
 ---
 
