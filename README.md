@@ -10,8 +10,10 @@ I am a passionate and experienced Lead Technical Architect and Technical Project
 
 ### My Expertise
 
-- **Front-end Development**: Utilizing **HTML**, **JavaScript**, **CSS**, and modern frameworks like **React.js** and **React Native** to create dynamic and responsive user interfaces.
-- **Back-end Development**: Leveraging **Python** and integrating **RESTful APIs** to enhance application functionality and interoperability.
+### My Expertise
+
+- **Front-end Development**: Utilizing **HTML**, **JavaScript**, **CSS**, and modern frameworks like **React.js**, **Next.js**, and **React Native** to create dynamic and responsive user interfaces.
+- **Back-end Development**: Leveraging **Python** and **Node.js**, and integrating **RESTful APIs** to enhance application functionality and interoperability.
 - **CI/CD Pipelines**: Establishing and managing robust CI/CD pipelines to streamline development and deployment processes.
 - **Agile Methodologies**: Implementing Agile practices to maintain flexibility and responsiveness within development teams.
 - **Salesforce Ecosystem**: Expertise in developing within and integrating with the Salesforce ecosystem.
