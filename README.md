@@ -8,7 +8,6 @@
 
 I am a passionate and experienced Lead Technical Architect and Technical Project Manager with a strong technical arsenal, including **React Native**, **React.js**, **Python**, **TypeScript**, and more. My career has been marked by championing initiatives at Admiral, where I've focused on establishing resilient CI/CD pipelines within the Salesforce ecosystem and seamlessly integrating microservices and web components. With a dedication to Agile methodologies, I’ve fostered environments of flexibility and responsiveness, propelling teams toward consistent value delivery to customers.
 
-### My Expertise
 
 ### My Expertise
 
