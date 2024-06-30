@@ -22,6 +22,11 @@ I am a passionate and experienced Lead Technical Architect and Technical Project
 ### My Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-robot-abhi)](https://github.com/mr-robot-abhi/github-readme-stats)
 
+
+### Top Languages 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-robot-abhi)](https://github.com/mr-robot-abhi/github-readme-stats)
+
 ### Notable Projects
 
 - **Scalable Insurance Pricing Engine**: Spearheaded the development of a scalable insurance pricing engine at Admiral using AWS infrastructure. This included dynamic resource scaling with Amazon EC2 and efficient storage with Amazon S3, facilitating real-time access and uninterrupted operations.
