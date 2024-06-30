@@ -19,6 +19,9 @@ I am a passionate and experienced Lead Technical Architect and Technical Project
 - **AWS Infrastructure**: Utilizing services like **Amazon EC2** and **Amazon S3** for scalable and efficient cloud solutions.
 - **Security and Scalability**: Prioritizing security, scalability, and performance in all projects.
 
+### My Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-robot-abhi)](https://github.com/mr-robot-abhi/github-readme-stats)
+
 ### Notable Projects
 
 - **Scalable Insurance Pricing Engine**: Spearheaded the development of a scalable insurance pricing engine at Admiral using AWS infrastructure. This included dynamic resource scaling with Amazon EC2 and efficient storage with Amazon S3, facilitating real-time access and uninterrupted operations.
