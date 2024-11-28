@@ -3,7 +3,7 @@
 ---
 
 # 💫 About Me:
-I am a passionate and experienced Programmer. <br>I am currently working as a Freelance Developer and Mentor. <br>I am working on the development of full-stack applications using React Native, React.js, Python, TypeScript, and JavaScript.<br>I am looking to collaborate with other freelance developers. <br>I am currently working on building web and cross-platform mobile applications for clients.<br>I am not a robot. It's just a name. Whats in a name anyway > <br><br> 
+I am a passionate and experienced Programmer. <br>I am currently working as a Freelance Developer and Mentor. <br>I am working on developing full-stack applications using React Native, React.js, Python, TypeScript, and JavaScript.<br>I am looking to collaborate with other freelance developers. <br>I am currently working on building web and cross-platform mobile applications for clients.<br><br> 
 
 
 ## 🌐 Socials:
@@ -28,4 +28,4 @@ I am a passionate and experienced Programmer. <br>I am currently working as a Fr
 ---
 [![](https://visitcount.itsvg.in/api?id=mr-robot-abhi&icon=0&color=3)](https://visitcount.itsvg.in)
 
-I was hoping you could buy me a coffee [](https://buymeacoffee.com/mr.robot.abhi)
+I was hoping you could buy me a coffee![](https://buymeacoffee.com/mr.robot.abhi)
