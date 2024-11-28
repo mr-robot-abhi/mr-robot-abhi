@@ -1,7 +1,3 @@
-Here’s a revamped and more aesthetic version of your README file. The design emphasizes sleekness, upgraded UI visuals, and clean alignment for better readability and presentation:
-
----
-
 # 👋 Welcome to My World!
 
 ---
