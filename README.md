@@ -34,8 +34,6 @@ Here’s what I work with:
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Android Studio](https://img.shields.io/badge/android%20studio-%233DDC84.svg?style=flat&logo=android-studio&logoColor=white)  
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)  
 
----  
-
 ---
 
 ## 📊 GitHub Stats  
@@ -72,5 +70,3 @@ Here’s what I work with:
 ☕ Like my work? [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A-Coffee-orange?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/mr.robot.abhi)
 
 ---
-
-This version improves readability, visual aesthetics, and introduces a modern design layout. Let me know if you'd like to add more sections or change the style!
