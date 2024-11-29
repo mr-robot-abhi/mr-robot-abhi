@@ -21,14 +21,6 @@ Feel free to reach out and connect with me on social platforms:
 
 ---
 
-Here’s the updated version with your requested additions:  
-
----
-
-Here’s the updated version with items arranged next to each other for better readability:  
-
----
-
 ## 💻 Tech Stack  
 Here’s what I work with:  
 
