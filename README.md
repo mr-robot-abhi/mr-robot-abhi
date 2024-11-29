@@ -21,23 +21,32 @@ Feel free to reach out and connect with me on social platforms:
 
 ---
 
+Here’s the updated version with your requested additions:  
+
+---
+
 ## 💻 Tech Stack  
 Here’s what I work with:  
 
 **Languages & Frameworks**  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
-![Python](https://img.shields.io/badge/python-%233670A0.svg?style=flat&logo=python&logoColor=ffdd54) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)  
+![Python](https://img.shields.io/badge/python-%233670A0.svg?style=flat&logo=python&logoColor=ffdd54)  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)  
-![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=flat&logo=node.js&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=flat&logo=node.js&logoColor=white)  
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)  
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)  
+![MERN Stack](https://img.shields.io/badge/MERN-%2355CB92.svg?style=flat&logo=mongodb&logoColor=white)  
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white)  
+![Expo](https://img.shields.io/badge/expo-%23000020.svg?style=flat&logo=expo&logoColor=white)  
 
 **Tools & Platforms**  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)  
 ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)  
+![Android Studio](https://img.shields.io/badge/android%20studio-%233DDC84.svg?style=flat&logo=android-studio&logoColor=white)  
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)  
 
 ---
 
