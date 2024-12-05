@@ -61,8 +61,8 @@ Here’s what I work with:
 Feel free to reach out and connect with me on social platforms:  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mr-robot-abhi)  
-[![Portfolio 1](https://img.shields.io/badge/Portfolio-%2338B2AC.svg?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://mr-robot-abhi.netlify.app/)  
-[![Portfolio 2](https://img.shields.io/badge/Portfolio-%23FFA500.svg?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://topmate.io/abhishek_math)
+[![Topmate](https://img.shields.io/badge/Portfolio-%2338B2AC.svg?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://mr-robot-abhi.netlify.app/)  
+[![mr-robot-abhi](https://img.shields.io/badge/Portfolio-%23FFA500.svg?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://topmate.io/abhishek_math)
 
 ---
 
