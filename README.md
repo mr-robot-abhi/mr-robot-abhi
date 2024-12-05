@@ -11,16 +11,6 @@ I am a passionate and experienced **Programmer** dedicated to creating impactful
 
 ---
 
-## 🌐 Connect With Me  
-Feel free to reach out and connect with me on social platforms:  
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mr_robot_abhi) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mr-robot-abhi) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mr-robot-abhi)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@UCTA6Ix-995cZidZGm4Rqz_g)  
-
----
-
 ## 💻 Tech Stack  
 Here’s what I work with:  
 
@@ -66,5 +56,14 @@ Here’s what I work with:
 ---
 
 [![](https://visitcount.itsvg.in/api?id=mr-robot-abhi&icon=5&color=4)](https://visitcount.itsvg.in)
+
+## 🌐 Connect With Me  
+Feel free to reach out and connect with me on social platforms:  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mr-robot-abhi)  
+[![Portfolio 1](https://img.shields.io/badge/Portfolio-%2338B2AC.svg?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://mr-robot-abhi.netlify.app/)  
+[![Portfolio 2](https://img.shields.io/badge/Portfolio-%23FFA500.svg?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://topmate.io/abhishek_math)
+
+---
 
 ☕ Like my work? [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A-Coffee-orange?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/mr.robot.abhi)
