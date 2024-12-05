@@ -81,12 +81,7 @@ I am a passionate and experienced **Programmer** dedicated to creating impactful
 ---
 
 <div align="center">
-☕ ## **Like my work?**  
-<a href="https://buymeacoffee.com/mr.robot.abhi">
-  <img src="https://img.shields.io/badge/Buy%20Me%20A-Coffee-orange?style=flat&logo=buy-me-a-coffee" alt="Buy Me A Coffee" />
-</a>
+☕ Like My Work?
+<a href="https://buymeacoffee.com/mr.robot.abhi"> <img src="https://img.shields.io/badge/Buy%20Me%20A-Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /> </a>
+🚀 Let Us Build Together!
 </div>
-
---- 
-
-<div align="center"> #**Let us build together** 🚀
