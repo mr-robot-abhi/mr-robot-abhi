@@ -7,9 +7,6 @@
 ---
 
 ## 💫 **About Me**  
-<div align="center">
-  <img src="https://github.com/mr-robot-abhi/portfolio/blob/main/public/avatar.png" alt="Avatar" width="120" style="border-radius: 50%; border: 2px solid #38B2AC;"/>
-</div>
 
 I am a passionate and experienced **Programmer** dedicated to creating impactful solutions.  
 
