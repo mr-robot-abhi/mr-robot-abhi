@@ -81,7 +81,7 @@ I am a passionate and experienced **Programmer** dedicated to creating impactful
 ---
 
 <div align="center">
-☕ ##Like my work?  
+☕ ## **Like my work?**  
 <a href="https://buymeacoffee.com/mr.robot.abhi">
   <img src="https://img.shields.io/badge/Buy%20Me%20A-Coffee-orange?style=flat&logo=buy-me-a-coffee" alt="Buy Me A Coffee" />
 </a>
@@ -89,4 +89,4 @@ I am a passionate and experienced **Programmer** dedicated to creating impactful
 
 --- 
 
-<div align="center"> #Let us build together 🚀
+<div align="center"> #**Let us build together** 🚀
