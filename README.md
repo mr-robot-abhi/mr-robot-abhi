@@ -1,7 +1,5 @@
 # 🌟 **👋 Welcome to My World!**  
 
----
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F76F&background=000000&center=true&vCenter=true&width=450&lines=Full-Stack+Developer+%F0%9F%92%BB;MERN+Stack+%F0%9F%93%96;Freelace+Developer+%E2%9C%94%EF%B8%8F" alt="Typing SVG">
 </div>
@@ -83,7 +81,7 @@ I am a passionate and experienced **Programmer** dedicated to creating impactful
 ---
 
 <div align="center">
-☕ **Like my work?**  
+☕ ##Like my work?  
 <a href="https://buymeacoffee.com/mr.robot.abhi">
   <img src="https://img.shields.io/badge/Buy%20Me%20A-Coffee-orange?style=flat&logo=buy-me-a-coffee" alt="Buy Me A Coffee" />
 </a>
@@ -91,4 +89,4 @@ I am a passionate and experienced **Programmer** dedicated to creating impactful
 
 --- 
 
-This version adds interactive SVGs, centers key elements, and creates sections that stand out. Let me know if you'd like to tweak anything further! 🚀
+<div align="center"> #Let us build together 🚀
