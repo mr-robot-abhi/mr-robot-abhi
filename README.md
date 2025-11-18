@@ -10,7 +10,7 @@
 
 I am a passionate and experienced **Programmer** dedicated to creating impactful solutions.  
 
-💻 **Current Roles**: Software Developer @ Auxgens.  
+💻 **Current Roles**: Freelance Software Developer 
 📱 **Focus**: Full-stack development with **React Native**, **React.js**, **Python**, **TypeScript**, and **JavaScript**.  
 🤝 **Looking for**: Collaborative opportunities with developers.  
 🌟 **Goal**: Building cutting-edge web and cross-platform mobile applications.  
