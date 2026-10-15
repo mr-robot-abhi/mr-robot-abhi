@@ -46,7 +46,9 @@ I am a passionate and experienced **Programmer** dedicated to creating impactful
 
 ### 🏅 **GitHub Trophies**  
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mr-robot-abhi&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="./assets/trophy.svg" alt="GitHub Trophies" />
+  </a>
 </div>
 
 ---
