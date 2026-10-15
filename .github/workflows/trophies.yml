@@ -32,8 +32,10 @@ jobs:
           GITHUB_TOKEN1: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_TOKEN2: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          rm -rf ../assets                      # CHANGED: removes the old "assets" file
+          mkdir -p ../assets                    # CHANGED: creates a real folder
           deno run --allow-net --allow-env --allow-read --allow-write \
-            ./render_svg.ts mr-robot-abhi ../assets onedark
+            ./render_svg.ts mr-robot-abhi ../assets/trophy.svg onedark   # CHANGED: saves as trophy.svg
 
       - name: Clean up generator
         run: rm -rf trophy-src
@@ -42,6 +44,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets
+          git add -A assets                     # CHANGED: also records the removal of the old file
           git diff --cached --quiet || git commit -m "Update GitHub trophies"
           git push
